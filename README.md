@@ -1,4 +1,4 @@
-# animated_progress_button
+# animation_icon_button
 
 A new Flutter project.
 
